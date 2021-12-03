@@ -8,8 +8,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/215762051153395713)
 
 
-- 👀 Topics that inspires me the most: **Programming, aviation, bicycling.**
-- 👨🏽‍💻 I’m currently working on **Vocaber** (iOS, MacOS, iPadOS) app. 
+- 👀 Topics that inspires me the most: **Programming, space, aviation, bicycling.**
+- 👨🏽‍💻 I’m currently working on [**Vocaber**](https://bit.ly/3og2OeO) (iOS, MacOS, iPadOS) app. 
 - 🌱 I’m currently learning: **Combine, Reactive mobile programming.**
 - 📫 How to reach me: **zavazhenski@gmail.com**
 - 🎬 If you don't know what movie to watch -> **feel free to ask :D**
