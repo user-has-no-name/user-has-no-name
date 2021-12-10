@@ -13,7 +13,9 @@
 - 🌱 I’m currently learning: **Combine, Reactive mobile programming.**
 - 📫 How to reach me: **zavazhenski@gmail.com**
 - 🎬 If you don't know what movie to watch -> **feel free to ask :D**
-- 📖 I'm currently reading: **Clean Code. Robert Cecil Martin**
+- 📖 I'm currently reading: 
+     a) **Clean Code. Robert Cecil Martin (50 pages done)**
+     b) **Tim Cook. The Genius That Took Apple to the Next Level. Leander Kahney (71/240 pages)**
 
 ## Last things I've watched, listened to and read 
 - 📚 We are the Weather: Saving the Planet Starts at Breakfast by Jonathan Safran Foer (2019) 
