@@ -10,7 +10,7 @@
 
 - 👀 Topics that inspires me the most: **Programming, space, aviation, bicycling.**
 - 👨🏽‍💻 I’m currently working on [**Vocaber**](https://roan-curiosity-d20.notion.site/Vocaber-app-5c9b291f815f407389a0faaaa3112d4c) (iOS, MacOS, iPadOS) app. 
-- 🌱 I’m currently learning: **Combine, Reactive mobile programming.**
+- 🌱 I’m currently learning: **Combine, Reactive mobile programming and UIKit, since I started iOS programming learning swiftUI.**
 - 📫 How to reach me: **zavazhenski@gmail.com**
 - 🎬 If you don't know what movie to watch -> **feel free to ask :D**
 - 📖 I'm currently reading: <br /> 
