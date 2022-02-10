@@ -9,8 +9,8 @@
 
 
 - 👀 Topics that inspires me the most: **Programming, space, aviation, bicycling.**
-- 👨🏽‍💻 I’m currently working on [**Vocaber**](https://roan-curiosity-d20.notion.site/Vocaber-app-5c9b291f815f407389a0faaaa3112d4c) (iOS, MacOS, iPadOS) app. 
-- 🌱 I’m currently learning: **Combine, Reactive mobile programming and UIKit, since I started iOS programming learning swiftUI.**
+- 👨🏽‍💻 I’m currently looking for a job. 
+- 🌱 I’m currently learning: **More about patterns and new stuff.**
 - 📫 How to reach me: **zavazhenski@gmail.com**
 - 🎬 If you don't know what movie to watch -> **feel free to ask :D**
 - 📖 I'm currently reading: <br /> 
@@ -19,15 +19,16 @@
 
 ## Last things I've watched, listened to and read 
 - 📚 We are the Weather: Saving the Planet Starts at Breakfast by Jonathan Safran Foer (2019) 
-- 🍿 Ghostbusters: Afterlife (5.5/10)
+- 🍿 Archive 81
 - 🎵 (I'll add my spotify playlist later)
 
 
 ## Skills
 - 👨‍💻 (Languages): Swift, Python
-- ⚙️ (Frameworks): SwiftUI, AVFoundation, Alamofire
+- ⚙️ (Frameworks): SwiftUI, AVFoundation, Alamofire, UIKit, MapKit, SwiftLint
 - 💽 (Databases): Firebase, Realm, CoreData
-- 🛠 (Tools): Figma, AdobeXD, XCode, VisualStudio, iterm, git
+- 🛠 (Tools): Figma, AdobeXD, XCode, VisualStudio, iterm, git, SwiftLint
+- (Architectural patterns): MVC, MVVM, Clean Code
 
 
 ## Workspace
