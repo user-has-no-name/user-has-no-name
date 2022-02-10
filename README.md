@@ -9,7 +9,7 @@
 
 
 - 👀 Topics that inspires me the most: **Programming, space, aviation, bicycling.**
-- 👨🏽‍💻 I’m currently looking for a job. 
+- 👨🏽‍💻 **I’m currently looking for a job.** 
 - 🌱 I’m currently learning: **More about patterns and new stuff.**
 - 📫 How to reach me: **zavazhenski@gmail.com**
 - 🎬 If you don't know what movie to watch -> **feel free to ask :D**
@@ -25,7 +25,7 @@
 
 ## Skills
 - 👨‍💻 (Languages): Swift, Python
-- ⚙️ (Frameworks): SwiftUI, AVFoundation, Alamofire, UIKit, MapKit, SwiftLint
+- ⚙️ (Frameworks): SwiftUI, AVFoundation, Alamofire, UIKit, MapKit
 - 💽 (Databases): Firebase, Realm, CoreData
 - 🛠 (Tools): Figma, AdobeXD, XCode, VisualStudio, iterm, git, SwiftLint
 - (Architectural patterns): MVC, MVVM, Clean Code
