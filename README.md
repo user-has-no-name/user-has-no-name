@@ -16,19 +16,21 @@
 - 📖 I'm currently reading: <br /> 
      a) **Clean Code. Robert Cecil Martin (50 pages done)** <br /> 
      b) **Tim Cook. The Genius That Took Apple to the Next Level. Leander Kahney (71/240 pages)**
+     c) **Bill Gates. How to avoid a climate disaster (7% done)**
+     (I promised myself I would read them after I got a job. 🤪)
 
 ## Last things I've watched, listened to and read 
 - 📚 We are the Weather: Saving the Planet Starts at Breakfast by Jonathan Safran Foer (2019) 
 - 🍿 Archive 81
-- 🎵 (I'll add my spotify playlist later)
+- 🎵 Love this playlist -> https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=3ab995c222de4ee1
 
 
 ## Skills
 - 👨‍💻 (Languages): Swift, Python
-- ⚙️ (Frameworks): SwiftUI, AVFoundation, Alamofire, UIKit, MapKit
+- ⚙️ (Frameworks): SwiftUI, AVFoundation, Alamofire, UIKit, MapKit, SnapKit, Kingfisher, Lottie
 - 💽 (Databases): Firebase, Realm, CoreData
 - 🛠 (Tools): Figma, AdobeXD, XCode, VisualStudio, iterm, git, SwiftLint
-- (Architectural patterns): MVC, MVVM, Clean Code
+- (Architectural patterns): MVC, MVVM, MVP, Clean Code
 
 
 ## Workspace
