@@ -27,9 +27,9 @@
 
 ## Skills
 - 👨‍💻 (Languages): Swift, Python
-- ⚙️ (Frameworks): SwiftUI, AVFoundation, Alamofire, UIKit, MapKit, SnapKit, Kingfisher, Lottie
+- ⚙️ (Frameworks): SwiftUI, AVFoundation, Alamofire, UIKit, MapKit, SnapKit, Kingfisher, Lottie, SwiftLint
 - 💽 (Databases): Firebase, Realm, CoreData
-- 🛠 (Tools): Figma, AdobeXD, XCode, VisualStudio, iterm, git, SwiftLint
+- 🛠 (Tools): Figma, AdobeXD, XCode, VisualStudio, iterm, git
 - (Architectural patterns): MVC, MVVM, MVP, Clean Code
 
 
