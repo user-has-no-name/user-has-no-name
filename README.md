@@ -9,8 +9,8 @@
 
 
 - 👀 Topics that inspires me the most: **Programming, space, aviation, bicycling.**
-- 👨🏽‍💻 **I’m currently looking for a job.** 
-- 🌱 I’m currently learning: **More about patterns and new stuff.**
+- 👨🏽‍💻 Latest project: **[Vitanotif](https://apps.apple.com/us/app/vitanotif/id1627758080?platform=iphone)** 
+- 🌱 I’m currently learning: **More about patterns and clean code.**
 - 📫 How to reach me: **zavazhenski@gmail.com**
 - 🎬 If you don't know what movie to watch -> **feel free to ask :D**
 - 📖 I'm currently reading: <br /> 
