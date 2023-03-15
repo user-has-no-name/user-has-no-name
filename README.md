@@ -17,11 +17,10 @@
      a) **Clean Code. Robert Cecil Martin (50 pages done)** <br /> 
      b) **Tim Cook. The Genius That Took Apple to the Next Level. Leander Kahney (71/240 pages)**<br /> 
      c) **Bill Gates. How to avoid a climate disaster (7% done)**<br /> 
-     (I promised myself I would read them after I got a job. 🤪)<br /> 
 
 ## Last things I've watched, listened to and read 
 - 📚 We are the Weather: Saving the Planet Starts at Breakfast by Jonathan Safran Foer (2019) 
-- 🍿 Archive 81
+- 🍿 Entrevías / Wrong Side of the Tracks
 - 🎵 Love this playlist -> https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=3ab995c222de4ee1
 
 
