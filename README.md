@@ -9,7 +9,7 @@
 
 
 - 👀 Topics that inspires me the most: **Programming, space, aviation, bicycling.**
-- 👨🏽‍💻 Latest project: **[Vitanotif](https://apps.apple.com/us/app/vitanotif/id1627758080?platform=iphone)** 
+- 👨🏽‍💻 Latest home project: **[Vitanotif](https://apps.apple.com/us/app/vitanotif/id1627758080?platform=iphone)** 
 - 🌱 I’m currently learning: **More about patterns and clean code.**
 - 📫 How to reach me: **olza.developer@gmail.com**
 - 🎬 If you don't know what movie to watch -> **feel free to ask :D**
