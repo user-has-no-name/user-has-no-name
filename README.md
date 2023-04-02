@@ -11,10 +11,10 @@
 - 👀 Topics that inspires me the most: **Programming, space, aviation, bicycling.**
 - 👨🏽‍💻 Latest project: **[Vitanotif](https://apps.apple.com/us/app/vitanotif/id1627758080?platform=iphone)** 
 - 🌱 I’m currently learning: **More about patterns and clean code.**
-- 📫 How to reach me: **zavazhenski@gmail.com**
+- 📫 How to reach me: **olza.developer@gmail.com**
 - 🎬 If you don't know what movie to watch -> **feel free to ask :D**
 - 📖 I'm currently reading: <br /> 
-     a) **Clean Code. Robert Cecil Martin (50 pages done)** <br /> 
+     a) **Clean Code. Robert Cecil Martin (200 pages done)** <br /> 
      b) **Tim Cook. The Genius That Took Apple to the Next Level. Leander Kahney (71/240 pages)**<br /> 
      c) **Bill Gates. How to avoid a climate disaster (7% done)**<br /> 
 
@@ -25,7 +25,7 @@
 
 
 ## Skills
-- 👨‍💻 (Languages): Swift, Python
+- 👨‍💻 (Languages): Swift, ObjectiveC, Python
 - ⚙️ (Frameworks): SwiftUI, AVFoundation, Alamofire, UIKit, MapKit, SnapKit, Kingfisher, Lottie, SwiftLint
 - 💽 (Databases): Firebase, Realm, CoreData
 - 🛠 (Tools): Figma, AdobeXD, XCode, VisualStudio, iterm, git
