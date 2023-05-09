@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm @user-has-no-name (Olek) </h1>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/user-has-no-name)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/olza_dev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zavazhenski@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/olzaaaa)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/215762051153395713)
 
 
@@ -28,7 +26,7 @@
 - 👨‍💻 (Languages): Swift, ObjectiveC, Python
 - ⚙️ (Frameworks): SwiftUI, AVFoundation, Alamofire, UIKit, MapKit, SnapKit, Kingfisher, Lottie, SwiftLint
 - 💽 (Databases): Firebase, Realm, CoreData
-- 🛠 (Tools): Figma, AdobeXD, XCode, VisualStudio, iterm, git
+- 🛠 (Tools): Figma, AdobeXD, XCode, VisualStudio, iterm, git, Fastlane, lazygit
 - (Architectural patterns): MVC, MVVM, MVP, Clean Code
 
 
