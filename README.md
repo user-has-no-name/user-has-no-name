@@ -7,7 +7,7 @@
 
 
 - 👀 Topics that inspires me the most: **Programming, space, aviation, bicycling.**
-- 👨🏽‍💻 Latest home project: **[Vitanotif](https://apps.apple.com/us/app/vitanotif/id1627758080?platform=iphone)** 
+- 👨🏽‍💻 Latest home projects: **[Vitanotif](https://apps.apple.com/us/app/vitanotif/id1627758080?platform=iphone)** | **[CocktailHub](https://apps.apple.com/pl/app/cocktailhub/id6450275327?platform=iphone)** 
 - 🌱 I’m currently learning: **More about patterns and clean code.**
 - 📫 How to reach me: **olza.developer@gmail.com**
 - 🎬 If you don't know what movie to watch -> **feel free to ask :D**
@@ -18,12 +18,12 @@
 
 ## Last things I've watched, listened to and read 
 - 📚 We are the Weather: Saving the Planet Starts at Breakfast by Jonathan Safran Foer (2019) 
-- 🍿 Entrevías / Wrong Side of the Tracks
+- 🍿 Teenage Mutant Ninja Turtles
 - 🎵 Love this playlist -> https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=3ab995c222de4ee1
 
 
 ## Skills
-- 👨‍💻 (Languages): Swift, ObjectiveC, Python
+- 👨‍💻 (Languages): Swift, ObjectiveC, Python, Go
 - ⚙️ (Frameworks): SwiftUI, AVFoundation, Alamofire, UIKit, MapKit, SnapKit, Kingfisher, Lottie, SwiftLint
 - 💽 (Databases): Firebase, Realm, CoreData
 - 🛠 (Tools): Figma, AdobeXD, XCode, VisualStudio, iterm, git, Fastlane, lazygit
