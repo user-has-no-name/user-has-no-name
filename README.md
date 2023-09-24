@@ -31,7 +31,13 @@
 
 
 ## Workspace
-![Laptop](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=flat&logo=apple&logoColor=white)
+- Laptop: MacBook M1 Pro 16gb 512 (Ventura 13.1)
+- Monitor: LG 34" 34WN750P-B IPS QHD
+- Microphone: Mozos MKIT-900Pro
+- Camera: iPhone 12 main camera
+- Mouse: LOGITECH G Pro X Superlight
+- Keyboard: Keychron K6 Wireless
+- Headphones: SONY WH-XB910N Extra Bass
 
 
 ## Support me
