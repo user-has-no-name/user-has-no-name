@@ -36,7 +36,7 @@
 - Microphone: Mozos MKIT-900Pro
 - Camera: iPhone 12 main camera
 - Mouse: LOGITECH G Pro X Superlight
-- Keyboard: Keychron K6 Wireless
+- Keyboard: Keychron K6 Wireless && Keychron Q11 QMK
 - Headphones: SONY WH-XB910N Extra Bass
 
 
