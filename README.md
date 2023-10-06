@@ -31,7 +31,7 @@
 
 
 ## Workspace
-- Laptop: MacBook M1 Pro 16gb 512 (Ventura 13.1)
+- Laptop: MacBook M1 Pro 16gb 512 (Sonoma 14.0)
 - Monitor: LG 34" 34WN750P-B IPS QHD
 - Microphone: Mozos MKIT-900Pro
 - Camera: iPhone 12 main camera
