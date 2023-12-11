@@ -12,9 +12,8 @@
 - 📫 How to reach me: **olza.developer@gmail.com**
 - 🎬 If you don't know what movie to watch -> **feel free to ask :D**
 - 📖 I'm currently reading: <br /> 
-     a) **Clean Code. Robert Cecil Martin (200 pages done)** <br /> 
-     b) **Tim Cook. The Genius That Took Apple to the Next Level. Leander Kahney (71/240 pages)**<br /> 
-     c) **Bill Gates. How to avoid a climate disaster (7% done)**<br /> 
+     a) **Tim Cook. The Genius That Took Apple to the Next Level. Leander Kahney (71/240 pages)**<br /> 
+     b) **Bill Gates. How to avoid a climate disaster (7% done)**<br /> 
 
 ## Last things I've watched, listened to and read 
 - 📚 We are the Weather: Saving the Planet Starts at Breakfast by Jonathan Safran Foer (2019) 
