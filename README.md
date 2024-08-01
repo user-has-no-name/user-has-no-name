@@ -6,20 +6,12 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/215762051153395713)
 
 
-- 👀 Topics that inspires me the most: **Programming, space, aviation, bicycling.**
-- 👨🏽‍💻 Latest home projects: **[Vitanotif](https://apps.apple.com/us/app/vitanotif/id1627758080?platform=iphone)** | **[CocktailHub](https://apps.apple.com/pl/app/cocktailhub/id6450275327?platform=iphone)** 
-- 🌱 I’m currently learning: **More about patterns and clean code.**
+- 👀 Topics that inspires me besides programming: **Formula 1, space, aviation, bicycling.**
+- 👨🏽‍💻 Latest home projects for internal usage: **[Vitanotif](https://apps.apple.com/us/app/vitanotif/id1627758080?platform=iphone)** | **[CocktailHub](https://apps.apple.com/pl/app/cocktailhub/id6450275327?platform=iphone)** 
 - 📫 How to reach me: **olza.developer@gmail.com**
 - 🎬 If you don't know what movie to watch -> **feel free to ask :D**
 - 📖 I'm currently reading: <br /> 
-     a) **Tim Cook. The Genius That Took Apple to the Next Level. Leander Kahney (71/240 pages)**<br /> 
-     b) **Bill Gates. How to avoid a climate disaster (7% done)**<br /> 
-
-## Last things I've watched, listened to and read 
-- 📚 We are the Weather: Saving the Planet Starts at Breakfast by Jonathan Safran Foer (2019) 
-- 🍿 Teenage Mutant Ninja Turtles
-- 🎵 Love this playlist -> https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=3ab995c222de4ee1
-
+     a) **Günther Steiner**. Surviving to Drive<br /> 
 
 ## Skills
 - 👨‍💻 (Languages): Swift, ObjectiveC, Python, Go
@@ -28,15 +20,14 @@
 - 🛠 (Tools): Figma, AdobeXD, XCode, VisualStudio, iterm, git, Fastlane, lazygit
 - (Architectural patterns): MVC, MVVM, MVP, Clean Code
 
-
 ## Workspace
-- Laptop: MacBook M1 Pro 16gb 512 (Sonoma 14.0)
+- Laptop: MacBook Pro 14 inch M3 Pro 18gb 1TB
 - Monitor: LG 34" 34WN750P-B IPS QHD
 - Microphone: Mozos MKIT-900Pro
-- Camera: iPhone 12 main camera
-- Mouse: LOGITECH G Pro X Superlight
+- Camera: iPhone 15 Pro mMax
+- Mouse: LOGITECH Lift
 - Keyboard: Keychron K6 Wireless && Keychron Q11 QMK
-- Headphones: SONY WH-XB910N Extra Bass
+- Headphones: Airpods Max
 
 
 ## Support me
