@@ -11,7 +11,7 @@
 - 📫 How to reach me: **olza.developer@gmail.com**
 - 🎬 If you don't know what movie to watch -> **feel free to ask :D**
 - 📖 I'm currently reading: <br /> 
-     a) **Günther Steiner**. Surviving to Drive<br /> 
+     a) **Giles Richards**. F1 Racing Confidential<br /> 
 
 ## Skills
 - 👨‍💻 (Languages): Swift, ObjectiveC, Python, Go
@@ -21,7 +21,7 @@
 - (Architectural patterns): MVC, MVVM, MVP, Clean Code
 
 ## Workspace
-- Laptop: MacBook Pro 14 inch M3 Pro 18gb 1TB
+- Laptops: MacBook Pro 14 inch M3 Pro 18gb 1TB && MacBoo Pro 13 M1
 - Monitor: LG 34" 34WN750P-B IPS QHD
 - Microphone: Mozos MKIT-900Pro
 - Camera: iPhone 15 Pro mMax
