@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm @user-has-no-name (Olek) </h1>
+<h1 align="center">Hi 👋, I'm @user-has-no-name </h1>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/user-has-no-name)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zavazhenski@gmail.com)
@@ -28,16 +28,4 @@
 - Mouse: LOGITECH Lift
 - Keyboard: Keychron K6 Wireless && Keychron Q11 QMK
 - Headphones: Airpods Max
-
-
-## Support me
-<!-- Your support, if you have it 
-@onimur created this image, feel free to use it. 
--->
-<p align="center">
-  <a href="https://www.buymeacoffee.com/olza" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
-</p>
-
 ---
